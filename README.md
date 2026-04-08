@@ -27,7 +27,7 @@
 ---
 
 ## 📜 My Certificates & Badges
-👉 [Click Here to View All](https://drive.google.com/drive/folders/1nTEToczN_wiEAGlzpnUqHjKhMzuxLO5J?usp=drive_link)
+👉 [Click Here to View my crtifcate](https://drive.google.com/drive/folders/1nTEToczN_wiEAGlzpnUqHjKhMzuxLO5J?usp=drive_link)
 
 ---
 
