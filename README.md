@@ -10,12 +10,16 @@
 🎓 First-year AIML student  
 🔐 Learning Cybersecurity + AI/ML  
 💡 Builder by curiosity  
+🌍 Portfolio: [udaydeshmukh.pages.dev](https://udaydeshmukh.pages.dev/)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://udaydeshmukh.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/uday-deshmukh-b8170a397?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,8 +30,9 @@
 
 ---
 
-## 📜 My Certificates & Badges
-👉 [Click Here to View my crtifcate](https://drive.google.com/drive/folders/1nTEToczN_wiEAGlzpnUqHjKhMzuxLO5J?usp=drive_link)
+## 📜 Certificates & Badges
+
+👉 [View My Certificates](https://drive.google.com/drive/folders/1nTEToczN_wiEAGlzpnUqHjKhMzuxLO5J?usp=drive_link)
 
 ---
 
@@ -70,18 +75,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-deshmukh1&theme=tokyo-night" />
 </p>
-
-<!--
-**Uday-deshmukh1/Uday-deshmukh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
