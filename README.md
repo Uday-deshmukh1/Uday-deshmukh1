@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=150§ion=header&text=Uday%20Deshmukh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=200§ion=header&text=Uday%20Deshmukh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20-%20AI%20%26%20ML%20%7C%20Minor%20E%26TC%20-%20IoT&descSize=18&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F5FF¢er=true&vCenter=true&width=650&lines=Major:+Computer+Science+%26+Engineering;Specialization:+AI+%26+Machine+Learning;Minor:+Electronics+%26+Telecommunication;Specialization:+IoT" alt="Typing intro" />
-
-<br><br>
+<br>
 
 <a href="https://udaydeshmukh.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,9 +14,9 @@
 
 ## 👋 Hey, I'm Uday Deshmukh
 
-🎓 **Major:** Computer Science & Engineering, specialization in **Artificial Intelligence & Machine Learning**
-📡 **Minor:** Electronics & Telecommunication, specialization in **IoT**
-💡 Builder by curiosity
+- 🎓 **Major:** Computer Science & Engineering, specialization in **Artificial Intelligence & Machine Learning**
+- 📡 **Minor:** Electronics & Telecommunication, specialization in **IoT**
+- 💡 Builder by curiosity
 
 <div align="center">
 
