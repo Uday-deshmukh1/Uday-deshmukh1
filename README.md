@@ -4,7 +4,7 @@
 
 <h3>CSE (AI and ML) · Minor in E and TC (IoT)</h3>
 
-<img src="slider.svg" alt="Sliding intro" width="100%" />
+<img src="slider.svg" alt="Ethical Hacking · Penetration Testing · AI Ethics · Python · Java · GitHub" width="100%" />
 
 <a href="https://udaydeshmukh.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/uday-deshmukh-b8170a397"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
