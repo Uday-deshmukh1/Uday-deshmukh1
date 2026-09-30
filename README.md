@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200§ion=header&text=Uday%20Deshmukh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20-%20AI%20%26%20ML%20%7C%20Minor%20E%26TC%20-%20IoT&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=150§ion=header&text=Uday%20Deshmukh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<br>
+<h3>CSE (AI and ML) · Minor in E and TC (IoT)</h3>
 
 <a href="https://udaydeshmukh.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/uday-deshmukh-b8170a397"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
