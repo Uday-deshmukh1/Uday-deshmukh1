@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+<defs>
+<filter id="g" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="14"/><feColorMatrix values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -9"/></filter>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.b{animation:m 9s ease-in-out infinite alternate}.b2{animation-duration:11s;animation-delay:-3s}.b3{animation-duration:13s;animation-delay:-6s}@keyframes m{0%{transform:translate(-90px,-14px)}50%{transform:translate(60px,16px)}100%{transform:translate(120px,-8px)}}.sh{animation:w 6s ease-in-out infinite}@keyframes w{0%{transform:translateX(-500px)}100%{transform:translateX(900px)}}</style>
+<rect width="800" height="150" fill="#000"/>
+<g filter="url(#g)">
+<circle class="b" cx="200" cy="75" r="42" fill="#3a3a3a"/>
+<circle class="b b2" cx="420" cy="60" r="52" fill="#4a4a4a"/>
+<circle class="b b3" cx="600" cy="95" r="40" fill="#2e2e2e"/>
+<circle class="b b2" cx="320" cy="110" r="30" fill="#555"/>
+</g>
+<g transform="skewX(-20)"><rect class="sh" width="160" height="150" fill="url(#s)"/></g>
+<text x="400" y="88" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" fill="#fff">Uday Deshmukh</text>
+</svg>
