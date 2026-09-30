@@ -1,77 +1,27 @@
-<!-- 🔥 Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Uday+Deshmukh;AIML+Student;Cybersecurity+Learner;Building+Real+World+Projects;Always+Learning+🚀" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=150§ion=header&text=Uday%20Deshmukh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F5FF¢er=true&vCenter=true&width=650&lines=Major:+Computer+Science+%26+Engineering;Specialization:+AI+%26+Machine+Learning;Minor:+Electronics+%26+Telecommunication;Specialization:+IoT" alt="Typing intro" />
+
+<br><br>
+
+<a href="https://udaydeshmukh.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
 
 ---
 
-# 👋 Hey, I'm Uday Deshmukh
+## 👋 Hey, I'm Uday Deshmukh
 
-🎓 First-year AIML student  
-🔐 Learning Cybersecurity + AI/ML  
-💡 Builder by curiosity  
-🌍 Portfolio: [udaydeshmukh.pages.dev](https://udaydeshmukh.pages.dev/)
+🎓 **Major:** Computer Science & Engineering, specialization in **Artificial Intelligence & Machine Learning**
+📡 **Minor:** Electronics & Telecommunication, specialization in **IoT**
+💡 Builder by curiosity
 
----
+<div align="center">
 
-## 🌐 Connect With Me here 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F5FF&height=90§ion=footer" width="100%" />
 
-<p align="center">
-  <a href="https://udaydeshmukh.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/uday-deshmukh-b8170a397?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/uday_deshmukh.i?igsh=MTdqZjRjdDlmaWt1bA==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📜 Certificates & Badges
-
-👉 [View My Certificates](https://drive.google.com/drive/folders/1nTEToczN_wiEAGlzpnUqHjKhMzuxLO5J?usp=drive_link)
-
----
-
-## 💻 Tech Stack
-
-### 🤖 AI / ML
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-green?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge)
-
-### 🔒 Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-orange?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-deshmukh1&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Uday-deshmukh1&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-deshmukh1&theme=tokyo-night" />
-</p>
+</div>
